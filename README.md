@@ -1,4 +1,4 @@
-## nlp_first : 파이썬과 자연어 처리 (Mastering Natural Language Processing with Python)_참고도서
+## nlp_first : 파이썬과 자연어 처리 (참고도서)
 - 문자열 매핑 알고리즘 및 정규화 기술 구현
 - 통계 언어 모델링 기법 구형
 - 스테머, 원형화기, 형태소 생성기 게발에 대한 통찰력 습득
