@@ -1,1 +1,9 @@
-"파이썬과 자연어 처리 (Mastering Natural Language Processing with Python)" 책을 바탕으로 작성한 내용입니다.
+## nlp_first : 파이썬과 자연어 처리 (Mastering Natural Language Processing with Python)_참고도서
+- 문자열 매핑 알고리즘 및 정규화 기술 구현
+- 통계 언어 모델링 기법 구형
+- 스테머, 원형화기, 형태소 생성기 게발에 대한 통찰력 습득
+- 검색 엔진 개발, n-gram 접근법과 관련된 POS 태깅 개념 및 총계 모델링 개념 구현
+- 트리뱅크 구조, CFG 생성, CYK 차트 파싱 알고리즘 및 Earley 차트 파싱 알고리즘 개념 습득
+- NER 기반 시스템 개발과 감정 분석의 개념 이해 및 적용
+- 정보 검색 및 텍스트 요약의 개념 이해 및 구현
+- 담화 분석 시스템 및 대용어 복원 기반 시스템 개발
